@@ -4,7 +4,10 @@ In this repository, you can find a list of my already published papers. I will u
 
 ## Posts in English
 
-(none so far)
+* [Some Basic Facebook “Hacks” – Hack no. 1: Check who’s your biggest “stalker” without leaving Facebook](https://github.com/aleksandar-todorovic/my-published-papers/blob/master/en/01%20Check%20Who%27s%20Your%20Biggest%20%22Stalker%22%20Without%20Leaving%20Facebook.md)
+* [Some Basic Facebook “Hacks” – Hack no. 2: Find out who’s calling you on your phone by using Facebook](https://github.com/aleksandar-todorovic/my-published-papers/blob/master/en/02%20Find%20Out%20Who%27s%20Calling%20You%20on%20Your%20Phone%20by%20Using%20Facebook.md)
+* [Some Basic Facebook “Hacks” – Hack no. 3: See Locked Profile Picture in Full Size](https://github.com/aleksandar-todorovic/my-published-papers/blob/master/en/03%20See%20Locked%20Profile%20Picture%20in%20Full%20Size.md)
+* [Some Basic Facebook "Hacks" - Hack no. 4: DDoS a Website By Using Facebook](https://github.com/aleksandar-todorovic/my-published-papers/blob/master/en/04%20DDoS%20a%20Website%20By%20Using%20Facebook.md)
 
 ## Posts in Bosnian
 
