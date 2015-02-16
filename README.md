@@ -4,6 +4,8 @@ In this repository, you will find a list of my already published papers and arti
 
 ## Posts in English
 
+* [A beginner's guide to GitHub](http://opensource.com/life/15/2/beginners-guide-github)
+
 #### Some Basic Facebook Hacks Series
 
 * [Hack no. 1: Check who’s your biggest “stalker” without leaving Facebook](http://r3bl.github.io/en/facebook-hack-no1/)
